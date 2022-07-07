@@ -7,9 +7,7 @@
 
 ### Connect with me:
 
-<a href="mailto:nohacvvi@gmail.com">
-  <img align="left" alt="Gmail" width="22px" src="https://cdn-icons-png.flaticon.com/512/561/561127.png" />
-</a>
+[<img align="left" alt="Gmail" width="22px" src="https://cdn-icons-png.flaticon.com/512/561/561127.png" />][mail]
 [<img align="left" alt="AlexRyzhikh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="AlexRyzhikh | Telegram" width="22px" src="https://cdn-icons-png.flaticon.com/512/152/152827.png" />][telegram]
 
@@ -25,5 +23,6 @@
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="Tailwind" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png" />
 
+[mail]: mailto:nohacvvi@gmail.com
 [linkedin]: https://www.linkedin.com/in/alexander-ryzhikh-1b3681244/
 [telegram]: https://t.me/yodakit
