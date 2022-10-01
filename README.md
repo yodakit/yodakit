@@ -1,10 +1,5 @@
 ### Hi there 👋, I'm Alex
 
-## I'm a Junior FrontEnd Developer
-- 🎉 I like to develop websites
-- ⚡ I love learning new tools and technologies
-- 🥅 I love outdoor activities
-
 ### Connect with me:
 
 [<img align="left" alt="Gmail" width="22px" src="https://cdn-icons-png.flaticon.com/512/561/561127.png" />][mail]
